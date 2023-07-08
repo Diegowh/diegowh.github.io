@@ -286,6 +286,7 @@ header.sticky {
 
 .row-icon i {
     font-size: 36px;
+    color: var(--text-color);
 }
 
 .row-icon i:hover {
