@@ -280,8 +280,16 @@ header.sticky {
     letter-spacing: 1px;
 }
 
+.row p {
+    padding-top: 0.5rem;
+}
+
 .row-icon i {
-    font-size: 21px;
+    font-size: 36px;
+}
+
+.row-icon i:hover {
+    color: var(--main-color);
 }
 
 .row:hover {
